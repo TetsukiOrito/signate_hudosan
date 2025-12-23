@@ -1,4 +1,5 @@
 input/
 .ipynb_checkpoints/
 notebook/submission.csv
+notebook/submission_ensemble.csv
 notebook/catboost_info/
